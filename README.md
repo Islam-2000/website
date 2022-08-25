@@ -4,6 +4,7 @@ This is my website
 
 Update on master branch
 
-## Purpose
+## Repository Purpose
+
 
 This file is just random text
